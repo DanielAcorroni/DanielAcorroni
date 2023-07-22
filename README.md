@@ -13,7 +13,7 @@ I'm 20 years old and i've been learning to code since July of 2021 on Trybe. I h
 * 🖥️  See my portfolio at [DanielAcorroni](http://danielacorroni.github.io/)
 * ✉️  You can contact me at [acorroni.dev@outlook.com](mailto:acorroni.dev@outlook.com)
 * 🚀  I'm currently working on [Seu Cliente Oculto](http://seuclienteoculto.com.br/)
-* 🧠  I'm learning Python Bot Developement
+* 🧠  I'm learning Python Bot Development
 * 🤝  I'm open to collaborating on freelance projects
 
 ### Skills
